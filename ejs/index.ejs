@@ -1,0 +1,22 @@
+<html lang="en'">
+<%- include('./partials/head.ejs') %>
+<body>
+    <%- include('./partials/nav.ejs') %>
+
+    <div class="blogs content">
+        <h2>All Blogs</h2>
+
+        <% if (blogs.length) { %>
+            <% for (const item of blogs) { %>
+                <h3 class="title"><%= item.title %></h3>
+                <p class="snippet"><%= item.snippet %></p>
+            <% } %>
+        <% } else { %>
+            <p>No results</p>
+        <% } %>
+    </div>
+
+    <%- include('./partials/footer.ejs') %>
+</body>
+
+</html>
