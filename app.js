@@ -1,8 +1,27 @@
-const http = require('http');
+const express = require("express");
 
-http.createServer(function(request, response) {
-  response.writeHead(200, {'Content-Type': 'text/plain'});
-  response.end("Hello, World5!\n");
-}).listen(process.env.PORT);
+// express app
+const app = express();
 
-console.log('App is running...');
+// listen for requests
+const server = app.listen(3000);
+
+// Home
+app.get("/", (req, res) => {
+  res.send("Home");
+});
+
+// About
+app.get("/about", (req, res) => {
+  res.sendFile("./views/about.html", { root: __dirname });
+});
+
+// Test
+app.get("/test", (req, res) => {
+  res.sendFile("./views/test.html", { root: __dirname });
+});
+
+// Redirects
+app.get("/about-us", (req, res) => {
+  res.redirect(302, "/about");
+});

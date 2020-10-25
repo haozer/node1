@@ -1,0 +1,332 @@
+------------ NEW CHUNK --------------
+The Project Gutenberg EBook of The Adventures of Sherlock Holmes
+------------ NEW CHUNK --------------
+
+by Sir Arthur Conan Doyle
+(#15 in our series by Sir Arthur Cona
+------------ NEW CHUNK --------------
+n Doyle)
+
+Copyright laws are changing all over the world. Be sur
+------------ NEW CHUNK --------------
+e to check the
+copyright laws for your country before downloadin
+------------ NEW CHUNK --------------
+g or redistributing
+this or any other Project Gutenberg eBook.
+
+
+------------ NEW CHUNK --------------
+This header should be the first thing seen when viewing this Pro
+------------ NEW CHUNK --------------
+ject
+Gutenberg file.  Please do not remove it.  Do not change or
+------------ NEW CHUNK --------------
+ edit the
+header without written permission.
+
+Please read the "l
+------------ NEW CHUNK --------------
+egal small print," and other information about the
+eBook and Pro
+------------ NEW CHUNK --------------
+ject Gutenberg at the bottom of this file.  Included is
+importan
+------------ NEW CHUNK --------------
+t information about your specific rights and restrictions in
+how
+------------ NEW CHUNK --------------
+ the file may be used.  You can also find out about how to make 
+------------ NEW CHUNK --------------
+a
+donation to Project Gutenberg, and how to get involved.
+
+
+**We
+------------ NEW CHUNK --------------
+lcome To The World of Free Plain Vanilla Electronic Texts**
+
+**e
+------------ NEW CHUNK --------------
+Books Readable By Both Humans and By Computers, Since 1971**
+
+**
+------------ NEW CHUNK --------------
+***These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+------------ NEW CHUNK --------------
+
+Title: The Adventures of Sherlock Holmes
+
+Author: Sir Arthur Co
+------------ NEW CHUNK --------------
+nan Doyle
+
+Release Date: March, 1999  [EBook #1661]
+[Most recent
+------------ NEW CHUNK --------------
+ly updated: November 29, 2002]
+
+Edition: 12
+
+Language: English
+
+
+------------ NEW CHUNK --------------
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBER
+------------ NEW CHUNK --------------
+G EBOOK, THE ADVENTURES OF SHERLOCK HOLMES ***
+
+
+
+
+(Additional e
+------------ NEW CHUNK --------------
+diting by Jose Menendez)
+
+
+
+THE ADVENTURES OF
+SHERLOCK HOLMES
+
+B
+------------ NEW CHUNK --------------
+Y
+
+SIR ARTHUR CONAN DOYLE
+
+CONTENTS
+
+I.	A Scandal in Bohemia
+II.
+------------ NEW CHUNK --------------
+	The Red-Headed League
+III.	A Case of Identity
+IV.	The Boscombe 
+------------ NEW CHUNK --------------
+Valley Mystery
+V.	The Five Orange Pips
+VI.	The Man with the Twis
+------------ NEW CHUNK --------------
+ted Lip
+VII.	The Adventure of the Blue Carbuncle
+VIII.	The Adven
+------------ NEW CHUNK --------------
+ture of the Speckled Band
+IX.	The Adventure of the Engineer's Th
+------------ NEW CHUNK --------------
+umb
+X.	The Adventure of the Noble Bachelor
+XI.	The Adventure of 
+------------ NEW CHUNK --------------
+the Beryl Coronet
+XII.	The Adventure of the Copper Beeches
+
+
+ADV
+------------ NEW CHUNK --------------
+ENTURE  I.  A SCANDAL IN BOHEMIA
+
+I.
+
+
+To Sherlock Holmes she is
+------------ NEW CHUNK --------------
+ always the woman. I have seldom heard him mention her under any
+------------ NEW CHUNK --------------
+ other name. In his eyes she eclipses and predominates the whole
+------------ NEW CHUNK --------------
+ of her sex. It was not that he felt any emotion akin to love fo
+------------ NEW CHUNK --------------
+r Irene Adler. All emotions, and that one particularly, were abh
+------------ NEW CHUNK --------------
+orrent to his cold, precise but admirably balanced mind. He was,
+------------ NEW CHUNK --------------
+ I take it, the most perfect reasoning and observing machine tha
+------------ NEW CHUNK --------------
+t the world has seen, but as a lover he would have placed himsel
+------------ NEW CHUNK --------------
+f in a false position. He never spoke of the softer passions, sa
+------------ NEW CHUNK --------------
+ve with a gibe and a sneer. They were admirable things for the o
+------------ NEW CHUNK --------------
+bserver--excellent for drawing the veil from men's motives and a
+------------ NEW CHUNK --------------
+ctions. But for the trained reasoner to admit such intrusions in
+------------ NEW CHUNK --------------
+to his own delicate and finely adjusted temperament was to intro
+------------ NEW CHUNK --------------
+duce a distracting factor which might throw a doubt upon all his
+------------ NEW CHUNK --------------
+ mental results. Grit in a sensitive instrument, or a crack in o
+------------ NEW CHUNK --------------
+ne of his own high-power lenses, would not be more disturbing th
+------------ NEW CHUNK --------------
+an a strong emotion in a nature such as his. And yet there was b
+------------ NEW CHUNK --------------
+ut one woman to him, and that woman was the late Irene Adler, of
+------------ NEW CHUNK --------------
+ dubious and questionable memory.
+
+I had seen little of Holmes l
+------------ NEW CHUNK --------------
+ately. My marriage had drifted us away from each other. My own c
+------------ NEW CHUNK --------------
+omplete happiness, and the home-centred interests which rise up 
+------------ NEW CHUNK --------------
+around the man who first finds himself master of his own establi
+------------ NEW CHUNK --------------
+shment, were sufficient to absorb all my attention, while Holmes
+------------ NEW CHUNK --------------
+, who loathed every form of society with his whole Bohemian soul
+------------ NEW CHUNK --------------
+, remained in our lodgings in Baker Street, buried among his old
+------------ NEW CHUNK --------------
+ books, and alternating from week to week between cocaine and am
+------------ NEW CHUNK --------------
+bition, the drowsiness of the drug, and the fierce energy of his
+------------ NEW CHUNK --------------
+ own keen nature. He was still, as ever, deeply attracted by the
+------------ NEW CHUNK --------------
+ study of crime, and occupied his immense faculties and extraord
+------------ NEW CHUNK --------------
+inary powers of observation in following out those clues, and cl
+------------ NEW CHUNK --------------
+earing up those mysteries which had been abandoned as hopeless b
+------------ NEW CHUNK --------------
+y the official police. From time to time I heard some vague acco
+------------ NEW CHUNK --------------
+unt of his doings: of his summons to Odessa in the case of the T
+------------ NEW CHUNK --------------
+repoff murder, of his clearing up of the singular tragedy of the
+------------ NEW CHUNK --------------
+ Atkinson brothers at Trincomalee, and finally of the mission wh
+------------ NEW CHUNK --------------
+ich he had accomplished so delicately and successfully for the r
+------------ NEW CHUNK --------------
+eigning family of Holland. Beyond these signs of his activity, h
+------------ NEW CHUNK --------------
+owever, which I merely shared with all the readers of the daily 
+------------ NEW CHUNK --------------
+press, I knew little of my former friend and companion.
+
+One nig
+------------ NEW CHUNK --------------
+ht--it was on the twentieth of March, 1888--I was returning from
+------------ NEW CHUNK --------------
+ a journey to a patient (for I had now returned to civil practic
+------------ NEW CHUNK --------------
+e), when my way led me through Baker Street. As I passed the wel
+------------ NEW CHUNK --------------
+l-remembered door, which must always be associated in my mind wi
+------------ NEW CHUNK --------------
+th my wooing, and with the dark incidents of the Study in Scarle
+------------ NEW CHUNK --------------
+t, I was seized with a keen desire to see Holmes again, and to k
+------------ NEW CHUNK --------------
+now how he was employing his extraordinary powers. His rooms wer
+------------ NEW CHUNK --------------
+e brilliantly lit, and, even as I looked up, I saw his tall, spa
+------------ NEW CHUNK --------------
+re figure pass twice in a dark silhouette against the blind. He 
+------------ NEW CHUNK --------------
+was pacing the room swiftly, eagerly, with his head sunk upon hi
+------------ NEW CHUNK --------------
+s chest and his hands clasped behind him. To me, who knew his ev
+------------ NEW CHUNK --------------
+ery mood and habit, his attitude and manner told their own story
+------------ NEW CHUNK --------------
+. He was at work again. He had risen out of his drug-created dre
+------------ NEW CHUNK --------------
+ams and was hot upon the scent of some new problem. I rang the b
+------------ NEW CHUNK --------------
+ell and was shown up to the chamber which had formerly been in p
+------------ NEW CHUNK --------------
+art my own.
+
+His manner was not effusive. It seldom was; but he 
+------------ NEW CHUNK --------------
+was glad, I think, to see me. With hardly a word spoken, but wit
+------------ NEW CHUNK --------------
+h a kindly eye, he waved me to an armchair, threw across his cas
+------------ NEW CHUNK --------------
+e of cigars, and indicated a spirit case and a gasogene in the c
+------------ NEW CHUNK --------------
+orner. Then he stood before the fire and looked me over in his s
+------------ NEW CHUNK --------------
+ingular introspective fashion.
+
+"Wedlock suits you," he remarked
+------------ NEW CHUNK --------------
+. "I think, Watson, that you have put on seven and a half pounds
+------------ NEW CHUNK --------------
+ since I saw you."
+
+"Seven!" I answered.
+
+"Indeed, I should have
+------------ NEW CHUNK --------------
+ thought a little more. Just a trifle more, I fancy, Watson. And
+------------ NEW CHUNK --------------
+ in practice again, I observe. You did not tell me that you inte
+------------ NEW CHUNK --------------
+nded to go into harness."
+
+"Then, how do you know?"
+
+"I see it, 
+------------ NEW CHUNK --------------
+I deduce it. How do I know that you have been getting yourself v
+------------ NEW CHUNK --------------
+ery wet lately, and that you have a most clumsy and careless ser
+------------ NEW CHUNK --------------
+vant girl?"
+
+"My dear Holmes," said I, "this is too much. You wo
+------------ NEW CHUNK --------------
+uld certainly have been burned, had you lived a few centuries ag
+------------ NEW CHUNK --------------
+o. It is true that I had a country walk on Thursday and came hom
+------------ NEW CHUNK --------------
+e in a dreadful mess, but as I have changed my clothes I can't i
+------------ NEW CHUNK --------------
+magine how you deduce it. As to Mary Jane, she is incorrigible, 
+------------ NEW CHUNK --------------
+and my wife has given her notice, but there, again, I fail to se
+------------ NEW CHUNK --------------
+e how you work it out."
+
+He chuckled to himself and rubbed his l
+------------ NEW CHUNK --------------
+ong, nervous hands together.
+
+"It is simplicity itself," said he
+------------ NEW CHUNK --------------
+; "my eyes tell me that on the inside of your left shoe, just wh
+------------ NEW CHUNK --------------
+ere the firelight strikes it, the leather is scored by six almos
+------------ NEW CHUNK --------------
+t parallel cuts. Obviously they have been caused by someone who 
+------------ NEW CHUNK --------------
+has very carelessly scraped round the edges of the sole in order
+------------ NEW CHUNK --------------
+ to remove crusted mud from it. Hence, you see, my double deduct
+------------ NEW CHUNK --------------
+ion that you had been out in vile weather, and that you had a pa
+------------ NEW CHUNK --------------
+rticularly malignant boot-slitting specimen of the London slavey
+------------ NEW CHUNK --------------
+. As to your practice, if a gentleman walks into my rooms smelli
+------------ NEW CHUNK --------------
+ng of iodoform, with a black mark of nitrate of silver upon his 
+------------ NEW CHUNK --------------
+right forefinger, and a bulge on the right side of his top-hat t
+------------ NEW CHUNK --------------
+o show where he has secreted his stethoscope, I must be dull, in
+------------ NEW CHUNK --------------
+deed, if I do not pronounce him to be an active member of the me
+------------ NEW CHUNK --------------
+dical profession."
