@@ -12,15 +12,7 @@ app.set("views", "ejs");
 const server = app.listen(3000);
 
 // use next to gracefully move onto next set of middleware
-app.use((req, res, next) => {
-  console.log('new request made:');
-  console.log('host: ', req.hostname);
-  console.log('path: ', req.path);
-  console.log('method: ', req.method);
-  console.log('Calling next1');
-  next();
-  console.log('After next1');
-});
+app.use(morgan('dev'));
 
 // Home
 app.get("/", (req, res) => {
@@ -49,13 +41,6 @@ app.get("/", (req, res) => {
   });
 });
 
-// Checking middleware 2
-app.use((req, res, next) => {
-  console.log('...Calling next 2');
-  next();
-  console.log('...After next2');
-});
-
 // About
 app.get("/about", (req, res) => {
   res.render("about", { title: "About" });
@@ -79,13 +64,6 @@ app.get("/blogs/create", (req, res) => {
 // Redirects
 app.get("/about-us", (req, res) => {
   res.redirect(302, "/about");
-});
-
-// testing 3rd middleware
-app.use((req, res, next) => {
-  console.log('......Calling next 3');
-  next();
-  console.log('......After next3');
 });
 
 // 404 (catch all)
